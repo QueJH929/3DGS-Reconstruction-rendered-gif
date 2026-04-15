@@ -101,16 +101,3 @@ This repository collects rendered GIF previews.
 ## zhusha
 
 <img src="./zhusha_missing_selected_views_compare.gif" alt="zhusha missing selected views compare" width="900">
-
-## Add More GIFs
-
-1. Upload the `.gif` file to this repository root.
-2. Add a title and image:
-
-```md
-## short-name
-
-<img src="./your-file-name.gif" alt="short description" width="900">
-```
-
-3. Commit and push the change. GitHub will render the GIF directly on the repository homepage.
