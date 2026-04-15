@@ -1,15 +1,14 @@
 # Rendered GIF Gallery
 
-
 优化前重建效果与优化后重建效果已经打乱，请根据具体表现完成评估！
 
 ## baiheyu
 
 <img src="./baiheyu_missing_selected_views_compare.gif" alt="baiheyu missing selected views compare" width="900">
 
-## baishuijing
+## baiyunmu
 
-<img src="./baishuijing_missing_selected_views_compare.gif" alt="baishuijing missing selected views compare" width="900">
+<img src="./baiyunmu_missing_selected_views_compare.gif" alt="baiyunmu missing selected views compare" width="900">
 
 ## chitiekuang
 
