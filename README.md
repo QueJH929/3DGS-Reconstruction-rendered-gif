@@ -1,6 +1,7 @@
 # Rendered GIF Gallery
 
 This repository collects rendered GIF previews.
+优化前重建效果与优化后重建效果已经打乱，请根据具体表现完成评估！
 
 ## baiheyu
 
