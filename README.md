@@ -6,10 +6,6 @@
 
 <img src="./baiheyu_missing_selected_views_compare.gif" alt="baiheyu missing selected views compare" width="900">
 
-## 白云母(baiyunmu)
-
-<img src="./baiyunmu_missing_selected_views_compare.gif" alt="baiyunmu missing selected views compare" width="900">
-
 ## 赤铁矿(chitiekuang)
 
 <img src="./chitiekuang_missing_selected_views_compare.gif" alt="chitiekuang missing selected views compare" width="900">
@@ -45,6 +41,10 @@
 ## 汉白玉(hanbaiyu)
 
 <img src="./hanbaiyu_missing_selected_views_compare.gif" alt="hanbaiyu missing selected views compare" width="900">
+
+## 黑石英(heishiying)
+
+<img src="./heishiying_missing_selected_views_compare.gif" alt="heishiying missing selected views compare" width="900">
 
 ## 黑曜石(heiyaoshi)
 
